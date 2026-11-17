@@ -20,7 +20,9 @@
 | --- | --- |
 | ![正面](3.jpg) | ![侧面](4.jpg) |
 
-**[查看 / 下载项目视频](1.mp4)**
+![轮腿机器人动态演示](assets/demo.gif)
+
+完整视频的自动循环动图（无声）。[查看 / 下载原视频](1.mp4)
 
 ## 交流展示
 
@@ -30,18 +32,14 @@
 
 证书署名：Haoze Jiang、Xu Li、Zhihao Zhang。会议：第 37 届中国控制与决策会议（CCDC 2025），2025 年 5 月。
 
-<details>
-<summary>查看参会证书</summary>
-
 ![CCDC 2025 参会证书](2.jpg)
-
-</details>
 
 ## 目录结构
 
 ```text
 luntui-robot/
 ├── README.md
+├── assets/demo.gif       # 自动循环演示动图
 ├── 1.mp4                 # 项目视频
 ├── 2.jpg                 # 参会证书
 ├── 3.jpg / 4.jpg         # 实物照片
