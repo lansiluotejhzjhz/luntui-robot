@@ -1,0 +1,12 @@
+# Local caches, logs and temporary CAD lock files
+.thumbs/
+*.log
+~$*
+*.tmp
+Thumbs.db
+.DS_Store
+.env
+.env.*
+!.env.example
+*.pem
+*.key
